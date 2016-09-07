@@ -1,0 +1,19 @@
+{
+  "name": "react-sample-router",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyloJorgensen/react-sample-router.git"
+  },
+  "author": "Kylo Jorgensen <kylo.j.jorgensen@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KyloJorgensen/react-sample-router/issues"
+  },
+  "homepage": "https://github.com/KyloJorgensen/react-sample-router#readme"
+}
